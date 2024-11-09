@@ -3,3 +3,7 @@
 ## Install
 
 this is some installation instructions
+
+```bash
+git status
+```
